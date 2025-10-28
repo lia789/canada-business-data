@@ -1,0 +1,32 @@
+##1 MS Dhoni ----------------1
+EMAIL: ms.dhoni.96784422455@gmail.com
+PASS: Dhoni@keep@gmail.com@123
+Port: http://localhost:9221
+$ google-chrome --remote-debugging-port=9221 --user-data-dir="$HOME/ChromeDhoni"
+VPN: Free VPN for Chrome - VPN Proxy VeePN  "Netherlands"
+URL: https://infonet.fr/
+
+
+##2 Adelaide Strikers -----------------------------2
+Email: adelaidestrikers9274@gmail.com
+Password: AdelaideStrikers!29Qc#
+Port: http://localhost:9222
+$ google-chrome --remote-debugging-port=9222 --user-data-dir="$HOME/ChromeAdelaide"
+VPN: Free VPN for Chrome - VPN Proxy VeePN "USA Verginia"
+URL: https://infonet.fr/
+
+##3 Brisbane Heat-------------------------------3
+Email: brisbaneheat5412@gmail.com
+Password: BrisbaneHeat#4555556
+Port: http://localhost:9223
+$ google-chrome --remote-debugging-port=9223 --user-data-dir="$HOME/ChromeBrisbane"
+VPN: Free VPN for Chrome - VPN Proxy VeePN "USA Origon"
+URL: https://infonet.fr/
+
+##4 Comilla Victorians------------------------------------------4
+Email: comilla.victorians.75896@gmail.com
+Password: ComillaVictorians#457888888
+Port: http://localhost:9224
+$ google-chrome --remote-debugging-port=9224 --user-data-dir="$HOME/ChromeComilla"
+VPN: Urban VPN Proxy "USA"
+URL: https://infonet.fr/
